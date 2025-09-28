@@ -33,7 +33,6 @@
     <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   </p>
-  <p><a href="YOUR_REPO_LINK"><strong>🔗 View on GitHub</strong></a></p>
   </details>
 
 <details>
@@ -44,7 +43,6 @@
     <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
     <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
   </p>
-  <p><a href="YOUR_REPO_LINK"><strong>🔗 View on GitHub</strong></a></p>
 </details>
 
 <details>
@@ -56,7 +54,6 @@
     <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
     <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
   </p>
-  <p><a href="YOUR_REPO_LINK"><strong>🔗 View on GitHub</strong></a></p>
 </details>
 
 
